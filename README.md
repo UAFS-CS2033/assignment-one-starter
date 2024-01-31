@@ -1,12 +1,4 @@
-# Assignment One: Create a Simple HTTP Server in Java (Spring 2024)
-
-Create a simple server that serves static content using the HTTP/1.1 protocol.
-
-Certainly! Below is the assignment formatted using GitHub Markdown:
-
----
-
-## Building a Simple Web Server for Static File Serving in Java
+# Assignment One:  Building a Simple Web Server for Static File Serving in Java
 
 ### Introduction to HTTP Requests and Web Servers
 
