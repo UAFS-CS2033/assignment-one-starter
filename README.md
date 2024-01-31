@@ -24,5 +24,5 @@ Create a **Java HTTP Server** that listens on **port 8080**. Implement a basic H
 
 The starter files, Server.java, implements a simple echo server.  This provides the basic framework for creating your web server.
 
-**Refer to the HTTP Wikipedia page for HTTP/1.1 Request and Response headers and formatting guidelines.**
+**Refer to the [Mozilla Developer Network MDN HTTP Documentation] (https://developer.mozilla.org/en-US/docs/Web/HTTP) and the HTTP Wikipedia page for HTTP/1.1 Request and Response headers and formatting guidelines.**
 
