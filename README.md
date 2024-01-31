@@ -8,15 +8,15 @@ In this assignment, you will be introduced to the fundamentals of HTTP (Hypertex
 
 1. **Understanding HTTP Protocol:**
    - Learn the basics of HTTP requests and responses.
-   - Grasp the significance of different HTTP methods (GET, POST, etc.).
-   - Increase your understanding of network protocols.
+   - Explain the significance of different HTTP methods (GET, POST, etc.).
+   - Increase your knowledge and understanding of network protocols.
 
 2. **Building a Web Server in Java:**
-   - Gain hands-on experience in creating a simple web server.
+   - Gain hands-on experience in creating a simple web server as an example of TCP/IP Client-Server applications.
    - Implement functionality for handling HTTP GET requests.
    - Design a web server that must adhere to the existing HTTP/1.1 protocol.
-   - Learn how web servers serve static files like HTML, CSS, and images.
-   - Understand the importance of MIME types in serving different file types.
+   - Learn how web servers serve static files like HTML, CSS, and images to browser clients.
+   - Learn how the HTTP Request-Response affects the design and operation of web applications. 
 
 ### Instructions
 
