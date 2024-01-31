@@ -17,6 +17,8 @@ public class Server{
     private void processConnection() throws IOException{
         BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
         PrintWriter out = new PrintWriter(clientSocket.getOutputStream(),true);
+
+        //*** Application Protocol *****
         String buffer = in.readLine();
         while(!(buffer.equals("quit"))){
             out.println("From Server: " + buffer);
@@ -34,6 +36,7 @@ public class Server{
         System.out.printf("Listen on Port: %d\n",portNo);
         while(running){
             clientSocket = serverSocket.accept();
+            //** Application Protocol
             processConnection();
             clientSocket.close();
         }
