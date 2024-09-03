@@ -22,7 +22,7 @@ In this assignment, you will be introduced to the fundamentals of HTTP (Hypertex
 
 Create a **Java HTTP Server** that listens on **port 8080**. Implement a basic HHTP server that can accept incoming connections from browsers and handle *HTTP Get* requests.  Your server should process the HTTP Request (request headers) and send a proper HTTP response with the appropriate response headers and the requested file (if available). The document root for storing your and serving your files on the web is the **docroot directory** located in your starter files.
 
-The starter files, Server.java, implements a simple echo server.  This provides the basic framework for creating your web server. Here is the [rubric] (rubric.md) that will be used for grading the assignment.
+The starter files, Server.java, implements a simple echo server.  This provides the basic framework for creating your web server. Here is the [rubric](rubric.md) that will be used for grading the assignment.
 
 **Refer to the [Mozilla Developer Network MDN HTTP Documentation] (https://developer.mozilla.org/en-US/docs/Web/HTTP) and the [HTTP Wikipedia page](https://en.wikipedia.org/wiki/HTTP) for HTTP/1.1 Request and Response headers and formatting guidelines.**
 
